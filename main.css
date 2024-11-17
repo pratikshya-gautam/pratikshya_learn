@@ -45,8 +45,8 @@
   display: inline-block;
   width: 32%;
   min-height: 300px;
-  text-align: center;
 }
 
 .box_2 {
+  color: red;
 }
