@@ -1,0 +1,52 @@
+.pratikshya {
+  color: red;
+  font-size: 48px;
+}
+
+.mohan_0 {
+  color: green;
+  font-size: 30px;
+  border: 3px solid blue;
+  border-width: 3px;
+  border-style: solid;
+  border-color: blue;
+  background-color: thistle;
+  display: inline-block;
+  width: 20%;
+  vertical-align: top;
+  height: 300px;
+}
+
+.mohan_1 {
+  color: green;
+  font-size: 30px;
+  border: 3px solid blue;
+  background-color: thistle;
+  display: inline-block;
+  width: 75%;
+  vertical-align: top;
+  height: 300px;
+}
+.parent {
+  margin-bottom: 30px;
+  background-color: rosybrown;
+  padding: 10px;
+}
+
+.box_1 {
+  background-color: cornsilk;
+  padding: 10px;
+}
+
+.box_2,
+.box_3,
+.box_4 {
+  background-color: aqua;
+  display: inline-block;
+  width: 32%;
+  min-height: 300px;
+  text-align: center;
+}
+
+.box_2 {
+}
